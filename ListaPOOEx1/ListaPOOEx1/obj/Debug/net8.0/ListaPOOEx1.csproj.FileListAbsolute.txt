@@ -1,0 +1,14 @@
+C:\Users\geovany.santos\source\repos\ListaPOOEx1\ListaPOOEx1\bin\Debug\net8.0\ListaPOOEx1.exe
+C:\Users\geovany.santos\source\repos\ListaPOOEx1\ListaPOOEx1\bin\Debug\net8.0\ListaPOOEx1.deps.json
+C:\Users\geovany.santos\source\repos\ListaPOOEx1\ListaPOOEx1\bin\Debug\net8.0\ListaPOOEx1.runtimeconfig.json
+C:\Users\geovany.santos\source\repos\ListaPOOEx1\ListaPOOEx1\bin\Debug\net8.0\ListaPOOEx1.dll
+C:\Users\geovany.santos\source\repos\ListaPOOEx1\ListaPOOEx1\bin\Debug\net8.0\ListaPOOEx1.pdb
+C:\Users\geovany.santos\source\repos\ListaPOOEx1\ListaPOOEx1\obj\Debug\net8.0\ListaPOOEx1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\geovany.santos\source\repos\ListaPOOEx1\ListaPOOEx1\obj\Debug\net8.0\ListaPOOEx1.AssemblyInfoInputs.cache
+C:\Users\geovany.santos\source\repos\ListaPOOEx1\ListaPOOEx1\obj\Debug\net8.0\ListaPOOEx1.AssemblyInfo.cs
+C:\Users\geovany.santos\source\repos\ListaPOOEx1\ListaPOOEx1\obj\Debug\net8.0\ListaPOOEx1.csproj.CoreCompileInputs.cache
+C:\Users\geovany.santos\source\repos\ListaPOOEx1\ListaPOOEx1\obj\Debug\net8.0\ListaPOOEx1.dll
+C:\Users\geovany.santos\source\repos\ListaPOOEx1\ListaPOOEx1\obj\Debug\net8.0\refint\ListaPOOEx1.dll
+C:\Users\geovany.santos\source\repos\ListaPOOEx1\ListaPOOEx1\obj\Debug\net8.0\ListaPOOEx1.pdb
+C:\Users\geovany.santos\source\repos\ListaPOOEx1\ListaPOOEx1\obj\Debug\net8.0\ListaPOOEx1.genruntimeconfig.cache
+C:\Users\geovany.santos\source\repos\ListaPOOEx1\ListaPOOEx1\obj\Debug\net8.0\ref\ListaPOOEx1.dll
